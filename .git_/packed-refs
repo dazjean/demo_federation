@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+28933b0c97a8d60336aa63546853a95e8df32b89 refs/remotes/origin/federation
+28933b0c97a8d60336aa63546853a95e8df32b89 refs/remotes/origin/master
+ee5381d383934c8b00f9a531a64603f186b9a122 refs/remotes/origin/myWebpack
+9ce528d6b42f3d6c343710694421f3fd457d14ed refs/remotes/origin/ts_compile
